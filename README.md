@@ -1,4 +1,4 @@
-# Hi, I'm Lokesh Kokkonda 👋
+# Hi, I'm Lokesh Kokkonda 
 ### Industrial Engineering Graduate | Supply Chain & Operations Analytics
 
 Welcome to my Supply Chain Analytics Portfolio! I specialize in bridging quantitative engineering, data science (Python, SQL, Power BI, Excel), and enterprise operations (procurement, inventory control, warehouse fulfillment, and freight logistics).
@@ -13,7 +13,7 @@ Welcome to my Supply Chain Analytics Portfolio! I specialize in bridging quantit
 
 ---
 
-## 🚀 Featured Supply Chain Analytics Repositories
+##  Featured Supply Chain Analytics Repositories
 
 | Repository | Focus Area | Core Methods & Tools | Key Output / Metric |
 | :--- | :--- | :--- | :--- |
@@ -25,7 +25,7 @@ Welcome to my Supply Chain Analytics Portfolio! I specialize in bridging quantit
 
 ---
 
-## 📊 Domain Competencies
+##  Domain Competencies
 - **Inventory Strategy:** Safety stock sizing under demand variability, cycle stock optimization, ABC/XYZ segmentation.
 - **Demand Planning:** Time-series smoothing, trend analysis, forecast error quantification (MAD/MAPE).
 - **Vendor Analytics:** SLA monitoring, defect rate tracking, SQL data aggregation for procurement audits.
@@ -34,4 +34,4 @@ Welcome to my Supply Chain Analytics Portfolio! I specialize in bridging quantit
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/lokeshkokkonda/) | [Email](mailto:lokeshkokkonda710@gmail.com)
+ **Connect with me:** [LinkedIn](https://www.linkedin.com/in/lokeshkokkonda/) | [Email](mailto:lokeshkokkonda710@gmail.com)
