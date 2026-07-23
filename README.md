@@ -5,7 +5,7 @@ Welcome to my Supply Chain Analytics Portfolio! I specialize in bridging quantit
 
 ---
 
-## 🛠️ Technical Stack
+##  Technical Stack
 - **Data & Analytics:** Python (`pandas`, `numpy`, `scipy`, `statsmodels`), SQL (PostgreSQL, SQLite), Advanced Excel (`Solver`, `Power Query`)
 - **Business Intelligence & Visualization:** Power BI (Explicit DAX, Data Modeling, Star Schemas), Seaborn, Matplotlib
 - **Enterprise Operations:** SAP S/4HANA MM Workflow (Procure-to-Pay), WMS Event Logs, ERP Data Integration
